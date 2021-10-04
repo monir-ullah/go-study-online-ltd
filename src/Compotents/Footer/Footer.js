@@ -1,3 +1,4 @@
+// This is use for importing Components and CSS style
 import React from 'react';
 import './Footer.css'
 import {Nav } from "react-bootstrap";
@@ -6,8 +7,10 @@ import ftLogo from '../../Images/Footer-logo.png'
 
 const Footer = () => {
     return (
+        // This is use for Footer Section. Will availabile in the all pages
         <div className="footer-area">
             <div className="d-flex container ft-sec-with-padding ">
+                {/* This is footer Fisrt Column use logo and text  */}
                 <div className="ft-logo col-3">
                     <img src={ftLogo} alt="" />
                     <p>
@@ -15,6 +18,7 @@ const Footer = () => {
                     <br/>Education featured by Learning Management System (LMS) for online education.
                     </p>
                 </div>
+                {/* This is footer 2nd Column use Nav with Route  */}
                 <div className="footer-nav ft-nav-margin col-3">
                     <h3>Company</h3>
                     <Nav className="nav-link-footeer">
@@ -26,6 +30,8 @@ const Footer = () => {
                 <li> <Link to="/sponsors">Sponsors</Link></li>
             </ul> </Nav>
                 </div>
+
+                {/* This is footer 3rd Column use Nav with Route (Platform Section) */}
                 <div className="footer-nav ft-nav-margin col-3">
                     <h3>Platform</h3>
                     <Nav className="nav-link-footeer">
@@ -37,10 +43,18 @@ const Footer = () => {
                 <li> <Link to="/sponsors">Tutorials</Link></li>
             </ul> </Nav>
                 </div>
+
+                {/* This is footer 4rd Column use Contact Section */}
                 <div className="col-3 ft-nav-margin">
-                   
+                <h3>Contact Us</h3>
+                    <div>
+                    <p><i class="fas fa-street-view"></i> <span className="span-margin">PO Box 16122 Collins Street West Victoria 8007 Australia</span></p>
+                    <p><i class="fas fa-phone-alt"></i> <span className="span-margin"> +91 458 654 528</span></p>
+                    <p><i class="fas fa-envelope"></i> <span className="span-margin">gostudy@gmail.com</span></p>
+                    </div>
                 </div>
             </div>
+            {/* This Section use for Copywrigt info/alert */}
             <div className="copywright-info container">
                <p> © 2022 GoStudy, All Rights Reserved. Design By Monir Ullah</p>
             </div>

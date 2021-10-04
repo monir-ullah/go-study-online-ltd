@@ -1,3 +1,4 @@
+// This is use for importing Components and CSS style
 import React from 'react';
 import { Container,Navbar,Nav } from "react-bootstrap";
 import { NavLink } from 'react-router-dom'
@@ -6,6 +7,7 @@ import logo from '../../gostudy-logo-dark logo-min.png'
 
 const Navr = () => {
     return (
+        // This whole secion will seen in the all pages.
         <div >
              <Navbar  className="me-auto">
             <Container>

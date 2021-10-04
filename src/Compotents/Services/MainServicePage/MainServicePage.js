@@ -1,3 +1,4 @@
+// This is use for importing Components and CSS style
 import React from 'react';
 import { useEffect } from 'react';
 import { useState } from 'react';
@@ -18,8 +19,9 @@ const MainServicePage = () => {
             {/* This Section is for All course Data */}
             <h2 className="d-padding">All COURSES</h2>
             <div class="d-grid gap-4 mb-5 mt-3 ">
-               
-            {
+
+             {/* This is use for taking data from Fake DB*/}
+            {   
                 mainServicePageItem.map(item => <ServiceMainPageItem
                 item={item}
                 key={item.id}

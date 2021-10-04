@@ -1,8 +1,10 @@
+// This is use for importing Components and CSS style
 import React from 'react';
 import './Contact.css'
 
 const Contact = () => {
     return (
+        // This is for Contact Page
         <div className="shadow-custom">
              <h3>Contact Us</h3>
                     <div>

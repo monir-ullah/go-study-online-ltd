@@ -1,3 +1,4 @@
+// This is use for importing Components and CSS style
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {
@@ -19,17 +20,26 @@ function App() {
     <div className="main-app-class">
       {/* This Whole Page use for Proper Routing */}
       <Router>
+        {/* This is Navigation Section. Which will showes in all pages */}
         <Navr></Navr>
         <Switch>
+          {/* This is use for Home page Routing */}
           <Route exact path="/" component={HeaderMain} />
           <Route exact path="/home" component={HeaderMain}/>
+
+          {/* This is use for Servies page. Use in the route */}
           <Route exact path="/services" component={MainServicePage}/>
+          {/* This is use for About page. Use in the route */}
           <Route exact path="/about" component={About}/>
+           {/* This is use for Contact page. Use in the route */}
           <Route exact path="/contact" component={Contact}/>
+          {/* This is use for Sponsor page. Use in the route */}
           <Route exact path="/sponsors" component={Sponsor}/>
+          {/* This is use for Page not Found Page page. */}
           <Route path='*' component={PageNotFound} />
-          
         </Switch>
+
+        {/* This is footer Section. Which will showes in all pages */}
         <Footer></Footer>
       </Router>
     </div>

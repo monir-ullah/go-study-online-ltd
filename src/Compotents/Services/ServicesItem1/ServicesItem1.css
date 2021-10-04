@@ -1,7 +1,9 @@
+/* This is border in the course. used in the card above the price and hourse */
 .line-in-course{
     border-top: 1px solid gray;
     padding: 10px;
 }
+/* This is use for rating icon color */
 .icon-color{
     color: orange;
 }

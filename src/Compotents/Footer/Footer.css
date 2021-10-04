@@ -1,25 +1,31 @@
+/* This is for whole footer background */
 .footer-area{
     background-color: #101C32;
     color: white;
     margin-bottom: -16px;
 }
+/* This is padding from top */
 .ft-sec-with-padding{
     padding-top: 100px;
 }
+/* This is for Copywright info */
 .copywright-info{
     margin-top: 100px;
     padding: 20px 0px;
     border-top: 1px solid white;
     text-align: center;
 }
+/* This is for footer logo  */
 .ft-logo img{
     width: 150px;
     margin-bottom: 20px;
 }
+/* This is for footer navigation Heading */
 .footer-nav h3{
     margin-left: 28px;
     margin-bottom: 23px;
 }
+/* This is for footer navigation link or Route */
 .nav-link-footeer  a{
     padding-bottom: 5px;
     text-decoration: none;
@@ -27,14 +33,17 @@
     display: block;
     left: 0px;
 }
+/* This is for footer Navigagion margin */
 .ft-nav-margin{
     margin-left: 35px;
     margin-right: -52px;
 }
+/* This is for clear dot form the nav  */
 ul li {
     list-style: none;
     
 }
+/* This is for creating margin */
 .span-margin{
     margin-left: 10px;
 }

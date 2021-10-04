@@ -1,3 +1,4 @@
+// This is use for importing Components and CSS style
 import React from 'react';
 import img from '../../Images/page-not-found-404.jpeg';
 const PageNotFound = () => {

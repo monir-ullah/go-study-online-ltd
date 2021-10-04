@@ -1,36 +1,42 @@
+/* This style use for main Header Secion  */
 .header-main-sec-div{
     display: flex;
     height: 700px;
     background-color: #F7F4F4;
     margin-bottom: 150px;
 }
-
+/* This sytle use for takeing Margin from top. from the navigaton */
 .header-info{
     margin-top: 150px;
 }
+/* This is use for Header Info H1 (Hilighted) */
 .header-info h1{
    font-weight: 700px;
    font-size: 69px;
 }
 
+/* This is use for Header Main Image */
 .header-img img{
     margin-top: 60px;
-    width: 600px;
-   
+    width: 600px; 
 }
+/* This section use for Learn New Skill section. Which atacted in the bottom of the main Header section */
 .bg-div-ex{
     margin-top: 20px;
     height: 172px;
     background-color: #FFFFFF;
     box-shadow: 7px 8px 22px #8080802b;
 }
+/* This is learn new secttion Image */
 .img-icon img{
     width: 150px;
 }
+/* This sub Heading of the Learn New Section */
 .header-sub-sec{
     padding: 42px;
     margin: auto 0px;
 }
+/* This is use for Sponsor section of the Home/Main page */
 .main-page-sponsor img{
     margin-left: -320px;
 }

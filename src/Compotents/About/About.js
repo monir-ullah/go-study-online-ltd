@@ -1,9 +1,11 @@
+// This is use for importing Components and CSS style
 import React from 'react';
 import './About.css'
 import img from '../../Images/Header-Photo-min.png';
 
 const About = () => {
     return (
+        // This Component or Page is use for About Page
         <div className="d-flex d-grid m-5">
             <div className="col-7">
                 <img src={img} alt=""  className="img-fluid"/>
