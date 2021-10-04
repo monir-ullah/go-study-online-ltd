@@ -17,4 +17,4 @@ Live Website Link [GoStudy Online Ltd.](https://gostudy-course-school-react.netl
 4)Image taken from online,
 
 
-live Website Link [GoStudy Online Ltd.](https://gostudy-course-school-react.netlify.app/).
+Live Website Link [GoStudy Online Ltd.](https://gostudy-course-school-react.netlify.app/).
