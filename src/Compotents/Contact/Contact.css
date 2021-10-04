@@ -1,0 +1,10 @@
+.shadow-custom{
+    box-shadow: -1px 3px 9px grey;
+    margin-top: 100px;
+    border: 2px solid gray;
+    padding: 100px;
+    width: 700px;
+    margin-left: 600px;
+    margin-bottom: 150px;
+    border-radius: 30px;
+}

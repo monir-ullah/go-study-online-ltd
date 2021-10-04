@@ -1,0 +1,36 @@
+.header-main-sec-div{
+    display: flex;
+    height: 700px;
+    background-color: #F7F4F4;
+    margin-bottom: 150px;
+}
+
+.header-info{
+    margin-top: 150px;
+}
+.header-info h1{
+   font-weight: 700px;
+   font-size: 69px;
+}
+
+.header-img img{
+    margin-top: 60px;
+    width: 600px;
+   
+}
+.bg-div-ex{
+    margin-top: 20px;
+    height: 172px;
+    background-color: #FFFFFF;
+    box-shadow: 7px 8px 22px #8080802b;
+}
+.img-icon img{
+    width: 150px;
+}
+.header-sub-sec{
+    padding: 42px;
+    margin: auto 0px;
+}
+.main-page-sponsor img{
+    margin-left: -320px;
+}

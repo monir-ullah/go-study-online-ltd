@@ -1,0 +1,13 @@
+.navbar{
+    position: sticky;
+}
+.nav-logo img{
+    width: 200px;
+}
+.nav-link a{
+    text-decoration: none;
+    margin-left: 40px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #29303B;
+}

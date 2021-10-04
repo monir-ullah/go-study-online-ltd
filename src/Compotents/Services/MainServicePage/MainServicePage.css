@@ -1,0 +1,8 @@
+h2.d-padding {
+    margin: 40px 305px;
+}
+.d-grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 0px 305px;
+}
