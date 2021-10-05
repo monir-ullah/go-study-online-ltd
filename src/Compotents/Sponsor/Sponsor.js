@@ -8,7 +8,8 @@ const Sponsor = () => {
         // This is use for Sponsor Page/ Section
         <div>
             <div className="sponsor-magring">
-                <img src={img} alt="" className="w-80"/>
+                <h2>Trusted by 100 world's best companies</h2>
+                <img src={img} alt="" className="w-80 img-fluid"/>
             </div>
         </div>
     );

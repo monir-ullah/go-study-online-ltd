@@ -20,12 +20,14 @@ const Navr = () => {
             />
             </Navbar.Brand>
             
+            {/* This is use for change page or visit one page to another page (link) */}
             <Nav className="nav-link ">
             <NavLink to="/home">Home</NavLink>
             <NavLink to="/services">Services</NavLink>
+            <NavLink to="/sponsors">Sponsors</NavLink>
             <NavLink to="/about">About</NavLink>
             <NavLink to="/contact">Contact</NavLink>
-            <NavLink to="/sponsors">Sponsors</NavLink>
+            
             </Nav>
             
            

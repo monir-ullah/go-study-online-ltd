@@ -11,13 +11,11 @@ const About = () => {
                 <img src={img} alt=""  className="img-fluid"/>
             </div>
             <div>
-                <h1>Wellcome to Your Big Tech Company</h1>
-                <p>Shiron – Insurance Elementor Template Kit is specially designed for Insurance, Finance, Marketing, Consulting as well as financial and law companies, individual tax, finance advisors.This kit has been optimized for use with the free Hello Elementor theme but may be used with most themes that support Elementor.</p>
-                
-                <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa tempore adipisci, recusandae magni consequuntur debitis aliquid maxime harum. Voluptatibus libero sapiente veniam asperiores harum illo quia assumenda mollitia saepe dignissimos!
-                    Possimus excepturi ea molestiae quisquam impedit. Animi officia autem ab in magnam asperiores doloremque optio, beatae commodi cupiditate, quis, ex fuga eveniet adipisci quisquam. Distinctio rem hic consectetur sapiente magni!
-                </p>
+                <h1>Achieve Your Goals With Educal</h1>
+                <p>Lost the plot bobby such a fibber bleeding bits and bobs don't get shirty with me bugger all mate chinwag super pukka william barney, horse play buggered.</p>
+                <p> <i class="fas fa-check"></i> <strong>Upskill your organization.</strong></p>
+                <p> <i class="fas fa-check"></i>  <strong>Access more then 100K online courses.</strong></p>
+                <p> <i class="fas fa-check"></i>  <strong>Learn the latest skills.</strong></p>
 
                 <p>Shiron – Insurance Elementor Template Kit is specially designed for Insurance, Finance, Marketing, Consulting as well as financial and law companies, individual tax, finance advisors.This kit has been optimized for use with the free Hello Elementor theme but may be used with most themes that support Elementor.</p>
             </div>

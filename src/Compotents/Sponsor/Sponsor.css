@@ -1,4 +1,14 @@
 /* This section use for Sponsor page in the route area */
 .sponsor-magring{
     margin-left: 400px;
+    padding: 50px;
+}
+/* This is for img positioning with margin */
+.sponsor-magring img{
+    margin: 0px 0px 60px 0px;
+}
+/* This is for Heading positioning with margin */
+.sponsor-magring h2{
+    margin: 50px 0px 60px 250px;
+    font-weight: 700;
 }

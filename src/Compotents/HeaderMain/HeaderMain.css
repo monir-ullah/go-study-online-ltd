@@ -37,6 +37,11 @@
     margin: auto 0px;
 }
 /* This is use for Sponsor section of the Home/Main page */
-.main-page-sponsor img{
-    margin-left: -320px;
+.main-page-sponsor {
+    margin-left: -382px;
+    margin-top: -50px;
+}
+/* This is use for Main page Sponsor Heading positioning */
+.main-page-sponsor div h2 {
+    margin-left: 280px;
 }

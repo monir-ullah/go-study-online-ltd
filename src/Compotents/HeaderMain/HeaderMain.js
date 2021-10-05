@@ -43,15 +43,15 @@ const HeaderMain = () => {
                 <div className="d-flex header-sub-sec">
                     <div className="img-icon"><img  className ="fluid" src="https://raistheme.com/wp/gostudy/wp-content/uploads/2021/04/icon-2.png" alt="" /></div> 
                     <div>
-                    <h4>Learn new skills</h4>
-                    <p>With flexible courses</p>
+                    <h4>Expert Teacher</h4>
+                    <p>Upskill with Speacilist</p>
                     </div> 
                 </div>
                 <div className="d-flex header-sub-sec">
                     <div className="img-icon"><img className ="fluid" src="https://raistheme.com/wp/gostudy/wp-content/uploads/2021/04/icon-3.png" alt="" /></div> 
                    <div>
-                    <h4>Learn new skills</h4>
-                    <p>With flexible courses</p>
+                    <h4>Online Degrees</h4>
+                    <p>Study flexibly online</p>
                     </div> 
                 </div>
             </div>

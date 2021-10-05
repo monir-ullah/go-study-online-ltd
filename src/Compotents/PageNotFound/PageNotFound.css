@@ -1,0 +1,17 @@
+/* This section is use for Page Not Found page's Button. */
+.button-to-home{
+    background-color: #ff1f59;
+    padding: 10px 20px;
+    margin: -269px 0px 30px 900px;
+}
+/* This is button hover */
+.button-to-home:hover{
+    background-color: #ff0f0fcc;
+    padding: 10px 20px;
+    
+}
+/* This is use for changing button color and style */
+.button-to-home a {
+    color: white;
+    text-decoration: none;
+}
